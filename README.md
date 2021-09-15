@@ -3,8 +3,8 @@
 ----
 
 <div align="center">
-  <img src="https://i.hizliresim.com/mm1NBs.jpg" width="200" height="200">
-  <h1>🐺 WhatsAsena</h1>
+  <img src="https://i.ibb.co/ZB6vVmN/BOT-Empire-Logo-512x.png" width="200" height="200">
+  <h1>Chamidu BOT</h1>
 </div>
 <p align="center">
     WhatsAsena project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp
@@ -38,7 +38,7 @@
 ### Simple Method
 [![Run on Repl.it](https://repl.it/badge/github/Quiec/whatsasena)](https://repl.it/@Quiec/whatsasena)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Quiec/WhatsAsena)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/chamidu-janith/WhatsAsena_clone_chamidu)
 
 ### The Hard Method
 ```js
