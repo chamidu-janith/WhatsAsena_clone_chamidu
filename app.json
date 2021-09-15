@@ -1,15 +1,15 @@
 {
-    "name": "WhatsAsena",
-    "description": "WhatsAsena project - Makes it easy and fun to use Whatsapp.",
-    "logo": "https://i.hizliresim.com/6Bbj7i.jpg",
-    "keywords": ["whatsapp", "userbot", "Asena"],
-    "repository": "https://github.com/Quiec/WhatsAsena",
+    "name": "Chamidu bot",
+    "description": "chamidu bot is a whatsapp userbot.",
+    "logo": "https://i.ibb.co/ZB6vVmN/BOT-Empire-Logo-512x.png",
+    "keywords": ["whatsapp", "userbot", "chami bot"],
+    "repository": "https://github.com/chamidu-janith/WhatsAsena_clone_chamidu",
     "website":   "https://quiec.tech",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
-        "ASENA_SESSION": {
-            "description": "Qr.Js ile oluşturduğunuz özel session kodu.",
+        "BOT_SESSION": {
+            "description": "Paste the code recieved after scan QR code .",
             "required": true
         },
         "SUDO": {
@@ -17,12 +17,12 @@
             "required": false
         },
         "LANGUAGE": {
-            "description": "Bot language. Azerice => az, English => en, Türkçe => tr, Malayalam => ml, Hindi => HI, Indonesia => IN, Español => ES",
+            "description": "Bot language. English => en, Sinhala => si",
             "required": true,
-            "value": "TR"
+            "value": "si"
         },
         "HANDLERS": {
-            "description": "Komutlar için.",
+            "description": "command work",
             "required": true,
             "value": "^[.!;]"
         },
@@ -50,7 +50,7 @@
             "value": "false"
         },
         "REMOVE_BG_API_KEY": {
-            "description": "Fotoğrafların arkaplanını kaldırır. https://remove.bg",
+            "description": "remove.bg api kye. https://remove.bg",
             "required": false
         },
         "NO_ONLINE": {
