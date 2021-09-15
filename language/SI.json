@@ -1,8 +1,8 @@
 {
     "__ASENAJSON__": true,
-    "LANGUAGE": "English",
-    "LANGCODE": "en",
-    "AUTHOR": "AsenaDev",
+    "LANGUAGE": "Sinhala",
+    "LANGCODE": "si",
+    "AUTHOR": "chamidu",
     "STRINGS": {
         "_asena": {
             "COMMAND": "Command",
@@ -67,7 +67,7 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart WhatsAsena",
+            "RESTART_DESC": "Restart Chamidu bot",
             "RESTART_MSG": "```restarting...```",
             "SHUTDOWN_DESC": "Shutdown WhatsAsena",
             "SHUTDOWN_MSG": "```shutting down ⛔```",
@@ -179,9 +179,9 @@
             "UPLOADING_VIDEO": "```Uploading your video...```",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
-            "GETTING_VIDEOS": "```I'm bringing videos...```",
-            "NOT_FOUND": "*I couldn't find anything :(*",
-            "SEARCHING": "* 🔎 Searching...*",
+            "GETTING_VIDEOS": "```I'm bringing youtube videos... පොඩ්ඩක් ඉන්න```",
+            "NOT_FOUND":මට මොනවත් හම්බුනේ නෑ:(*",
+            "SEARCHING": "* 🔎 Searching...(chamidu bot)*",
             "WIKI_DESC": "Searches query on Wikipedia.",
             "IMG_DESC": "Searches for related pics on Google.",
             "IMG": "Uploading photo ```{}``` number ```{} `..."
